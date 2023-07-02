@@ -6,4 +6,5 @@ Function.prototype.bind = Function.prototype.bind || function (target) {
     }
     self.apply(target, args);
   };
+  
 };

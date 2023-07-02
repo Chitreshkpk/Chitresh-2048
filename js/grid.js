@@ -4,6 +4,7 @@ function Grid(size, previousState) {
 }
 
 // Build a grid of the specified size
+
 Grid.prototype.empty = function () {
   var cells = [];
 

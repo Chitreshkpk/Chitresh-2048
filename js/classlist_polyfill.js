@@ -54,6 +54,7 @@
   };
 
   window.DOMTokenList = DOMTokenList;
+  
 
   function defineElementGetter(obj, prop, getter) {
     if (Object.defineProperty) {
